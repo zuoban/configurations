@@ -1,0 +1,2 @@
+.tojson : JSONObject.toJSONString
+    ANY  →  JSONObject.toJSONString($expr$)
